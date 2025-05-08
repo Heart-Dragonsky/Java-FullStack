@@ -1,0 +1,5 @@
+# for now, trigger build on push to this branch (JFS-5) for testing, then push to main
+on:
+  push:
+    branches:
+      - JFS-5
