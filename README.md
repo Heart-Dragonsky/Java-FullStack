@@ -10,3 +10,7 @@ A test project for experimenting with a java-based full stack application.
 - Frontend has a button
 - Backend returns some input
 - CICD exists if we're feeling ambitious
+
+## Future Suggestions
+- Kitty clicker game app
+- Changing hats as click count rises
